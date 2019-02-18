@@ -1,0 +1,5 @@
+--- ans22.txt	2019-01-26 14:20:38.000000000 -0600
++++ output22.txt	2019-02-14 19:12:57.214867308 -0600
+@@ -1 +1,2 @@
+ book_id:32452, book_name:Data Structures Using C++, book_author:D. S. Malik
++book_id:12452, book_name:Introduction to Algorithms, book_author:Thomas H. Cormen
